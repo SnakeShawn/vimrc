@@ -1,4 +1,9 @@
 "
 "Shawn's Vimrc
 "
-set number
+
+set number		"line number
+
+set syntax=on
+
+
