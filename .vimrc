@@ -4,6 +4,7 @@
 
 set number		"line number
 set relativenumber
+set cursorline
 
 set syntax=on
 
