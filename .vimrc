@@ -1,5 +1,5 @@
 "
-"Shawn's Vimrc
+"Snake's Vimrc
 "
 
 set number		"line number
